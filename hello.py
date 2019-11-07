@@ -6,3 +6,7 @@ def hello():
 for i in range(5):
     hello()
 
+for i in range(10):
+    print(i)
+jack={'name':jack,'age':18}
+
